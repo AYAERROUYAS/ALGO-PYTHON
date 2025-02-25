@@ -386,6 +386,16 @@ for i in range(n):
      ######
      #######
    ```
+   ```
+    #
+    ##
+    ###
+    ####
+    #####
+    ######
+    #######
+
+   ```
 
 4. Use nested loops to create the following:
 
